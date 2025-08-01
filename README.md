@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="./logo.png" alt="ModelCraft Logo" width="200"/>
 </p>
@@ -18,6 +19,14 @@
     <img src="https://img.shields.io/badge/Status-Active-green.svg" alt="Status: Active"/>
   </a>
 </p>
+=======
+# ModelCraft
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language: Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
+[![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
+[![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/HasanBGIt/ModelCraft)
+>>>>>>> 00e528ad03c484b009fa8f516f06dbb4be6046f6
 
 ## Overview
 

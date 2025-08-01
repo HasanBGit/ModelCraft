@@ -1,6 +1,9 @@
 # ModelCraft
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language: Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
+[![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
+[![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/HasanBGIt/ModelCraft)
 
 ## Overview
 
